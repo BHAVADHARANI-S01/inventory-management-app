@@ -33,16 +33,16 @@ This application allows operators to log in and manage inventory through three c
 ## 🖼️ Application Screenshots
 
 ### 🔐 Login Window
-![Login](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_login.png?raw=true)
+[![Login](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_login.png?raw=true)](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_login.png?raw=true)
 
 ### 🧾 Product Master Form
-![Product Master](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_product.png?raw=true)
+[![Product Master](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_product.png?raw=true)](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_product.png?raw=true)
 
 ### 📦 Goods Receiving
-![Goods Receiving](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_goods.png?raw=true)
+[![Goods Receiving](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_goods.png?raw=true)](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_goods.png?raw=true)
 
 ### 🛒 Sales Form
-![Sales Form](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_sales.png?raw=true)
+[![Sales Form](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_sales.png?raw=true)](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/screenshot_sales.png?raw=true)
 
 ---
 
