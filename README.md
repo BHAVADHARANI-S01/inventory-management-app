@@ -21,6 +21,14 @@ This application allows operators to log in and manage inventory through three c
 
 ---
 
+
+## Demo Video
+
+[![Watch the demo video](https://github.com/BHAVADHARANI-S01/inventory-management-app/blob/main/assets/video_thumb.png?raw=true)](https://drive.google.com/file/d/1By5xH67UTBZTw3ZkLjGZjdIVgEsrO8sY/view?usp=sharing)
+
+> Click the thumbnail above to watch the full screen-recorded demo of the application.
+
+
 ## Operator Logins
 
 | Username   | Password  |
