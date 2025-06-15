@@ -11,13 +11,13 @@ This application allows operators to log in and manage inventory through three c
 
 ##  Features
 
- Operator login with credentials  
- Product management with barcode, image, and categorization  
- Goods receiving from suppliers with unit-based pricing and tax  
- Sales recording with customer details  
- Local SQLite database (MySQL compatible structure)  
- Converts to `.exe` using PyInstaller  
- Clean and intuitive UI using PySide6  
+- Operator login with credentials  
+- Product management with barcode, image, and categorization  
+- Goods receiving from suppliers with unit-based pricing and tax  
+- Sales recording with customer details  
+- Local SQLite database (MySQL compatible structure)  
+- Converts to `.exe` using PyInstaller  
+- Clean and intuitive UI using PySide6  
 
 ---
 
